@@ -1,7 +1,7 @@
 {
 	"name" : "SystemUsersProfile",
-	"display_name" : "SP Framework Fintech System Users Profile View",
-	"description" : "<p>SP Framework Fintech System Users Profile View</p>",
+	"display_name" : "Fintech Users Profile View",
+	"description" : "<p>Fintech Users Profile View</p>",
 	"module_type" : "views",
 	"app_type" : "fintech",
 	"category" : "tools",
